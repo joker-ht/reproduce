@@ -18,7 +18,9 @@ int main() {
     if (len)
         b = (char*)malloc(1000);
     memcpy(b,a,len);
-    if (b)
+    if (b) {
+        *b = 'a';
         printf("%s\n",b);
+    }
     return 0;
 }
