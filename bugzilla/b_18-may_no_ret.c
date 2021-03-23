@@ -1,3 +1,4 @@
+// this is a c++ case
 int advance(int mCurrent,int a) {
 if ( mCurrent == 0 )
     return 0;
