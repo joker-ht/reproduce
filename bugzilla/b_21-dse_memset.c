@@ -1,3 +1,7 @@
+/*successful
+    x86-64 gcc 5-trunk -O1
+    x86-64 clang 3.0.0-trunk -O1
+*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
