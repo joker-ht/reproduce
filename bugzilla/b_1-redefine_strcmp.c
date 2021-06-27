@@ -1,3 +1,6 @@
+/*successful
+    x86-64 gcc 4.1.2-10.1 -O1
+*/
 #include<stdio.h>
 
 int strcmp (const char *s1, const char *s2)

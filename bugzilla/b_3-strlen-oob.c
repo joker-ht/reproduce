@@ -1,3 +1,6 @@
+/*successful
+    x86-64 gcc 8-trunk -O2
+*/
 #include <stdio.h>
 #include <string.h>
 
